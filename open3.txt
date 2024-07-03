@@ -1,1 +1,1 @@
-hellooo this is open3.txt file.
+hellooo this is open3.txt file.clear
