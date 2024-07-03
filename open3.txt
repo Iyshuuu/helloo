@@ -1,1 +1,1 @@
-hellooo this is open3.txt file.clear
+this is new-fol file open3.txt
