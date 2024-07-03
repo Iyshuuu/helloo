@@ -1,0 +1,1 @@
+This is a helloo folder and inside this there is one file open.txt,this is for practice.
